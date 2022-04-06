@@ -10,11 +10,13 @@
  
 
 <!-- - 🔭 I’m currently working on ... -->
-👨🏻‍💻 Graduanda em Análise e Desenvolvimento de Sistema - IFRN Campus Pau dos Ferros.
+👨🏻‍💻 Graduada em Análise e Desenvolvimento de Sistema - IFRN Campus Pau dos Ferros.
+
+💻 Desenvolvedora Full Stack;
 
 🌱 Atualmente estou estudando Python com Framework Django e React Native.
 
-:octocat: Siga-me!
+
 
 
 ----------------------------------------------------------------------------------
