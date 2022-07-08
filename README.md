@@ -14,7 +14,7 @@
 
 <!-- - 💻 Desenvolvedora Full Stack; -->
 
-🌱 Atualmente estou estudando Python com Framework Django e React Native.
+🌱 Atualmente estou estudando Python com Framework Django.
 
 
 
